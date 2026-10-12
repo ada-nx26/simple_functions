@@ -10,6 +10,7 @@ License-File: LICENSE
 Provides-Extra: dev
 Requires-Dist: pytest; extra == "dev"
 Requires-Dist: flake8; extra == "dev"
+Requires-Dist: numpy; extra == "dev"
 Dynamic: license-file
 
 # simple_functions

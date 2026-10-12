@@ -3,6 +3,7 @@ README.md
 pyproject.toml
 simple_functions/__init__.py
 simple_functions/functions1.py
+simple_functions/sin.py
 simple_functions.egg-info/PKG-INFO
 simple_functions.egg-info/SOURCES.txt
 simple_functions.egg-info/dependency_links.txt

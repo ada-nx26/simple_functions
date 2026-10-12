@@ -14,7 +14,7 @@ authors = [{ name = "Your Name", email = "your.email@imperial.ac.uk" }]
 dependencies = []
 
 [project.optional-dependencies]
-dev = ["pytest", "flake8"]
+dev = ["pytest", "flake8", "numpy"]
 
 [tool.setuptools]
 packages = ["simple_functions"]
